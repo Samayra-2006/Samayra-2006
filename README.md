@@ -12,7 +12,6 @@
 
 ## 📫 How to reach me
 - LinkedIn: www.linkedin.com/in/samayra-grover-sami2006 
-- Email: groversamayra@gmail.com
 
 ---
 💼 Open to internship opportunities | 🌱 Always learning
