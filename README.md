@@ -1,4 +1,21 @@
-## Hi there 👋
+## Hi there, I am Samayra.
+
+## About Me
+🎓 IT Student at University of South Australia  
+📊 GPA: 5.78/7.0  
+🎯 Seeking internship opportunities in software development and IT  
+💻 Passionate about web development, databases, and problem-solving
+
+## Technical Skills
+**Languages:** JavaScript, Python, SQL, HTML/CSS  
+**Technologies:** Git, MySQL, T-SQL  
+
+## 📫 How to reach me
+- LinkedIn: www.linkedin.com/in/samayra-grover-sami2006 
+- Email: groversamayra@gmail.com
+
+---
+💼 Open to internship opportunities | 🌱 Always learning
 
 <!--
 **Samayra-2006/Samayra-2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
